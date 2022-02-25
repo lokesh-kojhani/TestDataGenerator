@@ -1,0 +1,10 @@
+{
+    "client_first_name": "first_name",
+    "client_last_name": "last_name",
+    "service_description": "service_description",
+    "service_date": "date(format = 'YYYY-MM-DD')",
+    "service_performed_by": "performed_by",
+    "service_amount_paid": "double(from = 1, to = 1000)",
+    "service_amount_currency": "currency",
+    "service_notes":""
+}
