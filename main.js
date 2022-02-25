@@ -65,10 +65,13 @@ function main() {
     }
 
     }
-    console.log(result);
+    uniqueArray = result.filter(function(elem, pos) {
+        return result.indexOf(elem) == pos;
+    })
+    console.log(uniqueArray);
 
     // Let's create the file
-    fs.writeFile ("TestData.json", JSON.stringify(result, null, 4), function(err) {
+    fs.writeFile ("TestData.json", JSON.stringify(uniqueArray, null, 4), function(err) {
         if (err)
             console.error("TestData.json exists, please delete it first.");
         else

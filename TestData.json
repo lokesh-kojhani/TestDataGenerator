@@ -1,802 +1,102 @@
 [
     {
-        "client_first_name": "Lysanne",
-        "client_last_name": "Grimes",
-        "service_description": "routine teeth cleaning",
-        "service_date": "1981-09-12",
-        "service_performed_by": "Manley Bradtke",
-        "service_amount_paid": 428.3712158254348,
+        "client_first_name": "Rowena",
+        "client_last_name": "Kohler",
+        "service_description": "MRI",
+        "service_date": "2016-04-06",
+        "service_performed_by": "Dr. Emily Fay",
+        "service_amount_paid": 706.860853668768,
         "service_amount_currency": "CAD",
-        "service_notes": "Implemented asynchronous infrastructure"
+        "service_notes": "Function-based modular structure"
     },
     {
-        "client_first_name": "Lysanne",
-        "client_last_name": "Grimes",
-        "service_description": "routine teeth cleaning",
-        "service_date": "1981-09-12",
-        "service_performed_by": "Manley Bradtke",
-        "service_amount_paid": 428.3712158254348,
-        "service_amount_currency": "CAD",
-        "service_notes": "Implemented asynchronous infrastructure"
-    },
-    {
-        "client_first_name": "Lysanne",
-        "client_last_name": "Grimes",
-        "service_description": "routine teeth cleaning",
-        "service_date": "1981-09-12",
-        "service_performed_by": "Manley Bradtke",
-        "service_amount_paid": 428.3712158254348,
-        "service_amount_currency": "CAD",
-        "service_notes": "Implemented asynchronous infrastructure"
-    },
-    {
-        "client_first_name": "Lysanne",
-        "client_last_name": "Grimes",
-        "service_description": "routine teeth cleaning",
-        "service_date": "1981-09-12",
-        "service_performed_by": "Manley Bradtke",
-        "service_amount_paid": 428.3712158254348,
-        "service_amount_currency": "CAD",
-        "service_notes": "Implemented asynchronous infrastructure"
-    },
-    {
-        "client_first_name": "Lysanne",
-        "client_last_name": "Grimes",
-        "service_description": "routine teeth cleaning",
-        "service_date": "1981-09-12",
-        "service_performed_by": "Manley Bradtke",
-        "service_amount_paid": 428.3712158254348,
-        "service_amount_currency": "CAD",
-        "service_notes": "Implemented asynchronous infrastructure"
-    },
-    {
-        "client_first_name": "Lysanne",
-        "client_last_name": "Grimes",
-        "service_description": "routine teeth cleaning",
-        "service_date": "1981-09-12",
-        "service_performed_by": "Manley Bradtke",
-        "service_amount_paid": 428.3712158254348,
-        "service_amount_currency": "CAD",
-        "service_notes": "Implemented asynchronous infrastructure"
-    },
-    {
-        "client_first_name": "Lysanne",
-        "client_last_name": "Grimes",
-        "service_description": "routine teeth cleaning",
-        "service_date": "1981-09-12",
-        "service_performed_by": "Manley Bradtke",
-        "service_amount_paid": 428.3712158254348,
-        "service_amount_currency": "CAD",
-        "service_notes": "Implemented asynchronous infrastructure"
-    },
-    {
-        "client_first_name": "Lysanne",
-        "client_last_name": "Grimes",
-        "service_description": "routine teeth cleaning",
-        "service_date": "1981-09-12",
-        "service_performed_by": "Manley Bradtke",
-        "service_amount_paid": 428.3712158254348,
-        "service_amount_currency": "CAD",
-        "service_notes": "Implemented asynchronous infrastructure"
-    },
-    {
-        "client_first_name": "Kristin",
-        "client_last_name": "Yundt",
-        "service_description": "lab test",
-        "service_date": "1979-11-16",
-        "service_performed_by": "Adolf Marks",
-        "service_amount_paid": 963.2680912658107,
-        "service_amount_currency": "CAD",
-        "service_notes": "Centralized actuating knowledgebase"
-    },
-    {
-        "client_first_name": "Kristin",
-        "client_last_name": "Yundt",
-        "service_description": "lab test",
-        "service_date": "1979-11-16",
-        "service_performed_by": "Adolf Marks",
-        "service_amount_paid": 963.2680912658107,
-        "service_amount_currency": "CAD",
-        "service_notes": "Centralized actuating knowledgebase"
-    },
-    {
-        "client_first_name": "Kristin",
-        "client_last_name": "Yundt",
-        "service_description": "lab test",
-        "service_date": "1979-11-16",
-        "service_performed_by": "Adolf Marks",
-        "service_amount_paid": 963.2680912658107,
-        "service_amount_currency": "CAD",
-        "service_notes": "Centralized actuating knowledgebase"
-    },
-    {
-        "client_first_name": "Kristin",
-        "client_last_name": "Yundt",
-        "service_description": "lab test",
-        "service_date": "1979-11-16",
-        "service_performed_by": "Adolf Marks",
-        "service_amount_paid": 963.2680912658107,
-        "service_amount_currency": "CAD",
-        "service_notes": "Centralized actuating knowledgebase"
-    },
-    {
-        "client_first_name": "Kristin",
-        "client_last_name": "Yundt",
-        "service_description": "lab test",
-        "service_date": "1979-11-16",
-        "service_performed_by": "Adolf Marks",
-        "service_amount_paid": 963.2680912658107,
-        "service_amount_currency": "CAD",
-        "service_notes": "Centralized actuating knowledgebase"
-    },
-    {
-        "client_first_name": "Kristin",
-        "client_last_name": "Yundt",
-        "service_description": "lab test",
-        "service_date": "1979-11-16",
-        "service_performed_by": "Adolf Marks",
-        "service_amount_paid": 963.2680912658107,
-        "service_amount_currency": "CAD",
-        "service_notes": "Centralized actuating knowledgebase"
-    },
-    {
-        "client_first_name": "Kristin",
-        "client_last_name": "Yundt",
-        "service_description": "lab test",
-        "service_date": "1979-11-16",
-        "service_performed_by": "Adolf Marks",
-        "service_amount_paid": 963.2680912658107,
-        "service_amount_currency": "CAD",
-        "service_notes": "Centralized actuating knowledgebase"
-    },
-    {
-        "client_first_name": "Kristin",
-        "client_last_name": "Yundt",
-        "service_description": "lab test",
-        "service_date": "1979-11-16",
-        "service_performed_by": "Adolf Marks",
-        "service_amount_paid": 963.2680912658107,
-        "service_amount_currency": "CAD",
-        "service_notes": "Centralized actuating knowledgebase"
-    },
-    {
-        "client_first_name": "Martin",
-        "client_last_name": "Hahn",
+        "client_first_name": "Rosario",
+        "client_last_name": "Powlowski",
         "service_description": "xray",
-        "service_date": "1975-11-27",
-        "service_performed_by": "Dr. Loren Pagac",
-        "service_amount_paid": 831.7637514504604,
-        "service_amount_currency": "GBP",
-        "service_notes": "Digitized methodical orchestration"
-    },
-    {
-        "client_first_name": "Martin",
-        "client_last_name": "Hahn",
-        "service_description": "xray",
-        "service_date": "1975-11-27",
-        "service_performed_by": "Dr. Loren Pagac",
-        "service_amount_paid": 831.7637514504604,
-        "service_amount_currency": "GBP",
-        "service_notes": "Digitized methodical orchestration"
-    },
-    {
-        "client_first_name": "Martin",
-        "client_last_name": "Hahn",
-        "service_description": "xray",
-        "service_date": "1975-11-27",
-        "service_performed_by": "Dr. Loren Pagac",
-        "service_amount_paid": 831.7637514504604,
-        "service_amount_currency": "GBP",
-        "service_notes": "Digitized methodical orchestration"
-    },
-    {
-        "client_first_name": "Martin",
-        "client_last_name": "Hahn",
-        "service_description": "xray",
-        "service_date": "1975-11-27",
-        "service_performed_by": "Dr. Loren Pagac",
-        "service_amount_paid": 831.7637514504604,
-        "service_amount_currency": "GBP",
-        "service_notes": "Digitized methodical orchestration"
-    },
-    {
-        "client_first_name": "Martin",
-        "client_last_name": "Hahn",
-        "service_description": "xray",
-        "service_date": "1975-11-27",
-        "service_performed_by": "Dr. Loren Pagac",
-        "service_amount_paid": 831.7637514504604,
-        "service_amount_currency": "GBP",
-        "service_notes": "Digitized methodical orchestration"
-    },
-    {
-        "client_first_name": "Martin",
-        "client_last_name": "Hahn",
-        "service_description": "xray",
-        "service_date": "1975-11-27",
-        "service_performed_by": "Dr. Loren Pagac",
-        "service_amount_paid": 831.7637514504604,
-        "service_amount_currency": "GBP",
-        "service_notes": "Digitized methodical orchestration"
-    },
-    {
-        "client_first_name": "Martin",
-        "client_last_name": "Hahn",
-        "service_description": "xray",
-        "service_date": "1975-11-27",
-        "service_performed_by": "Dr. Loren Pagac",
-        "service_amount_paid": 831.7637514504604,
-        "service_amount_currency": "GBP",
-        "service_notes": "Digitized methodical orchestration"
-    },
-    {
-        "client_first_name": "Martin",
-        "client_last_name": "Hahn",
-        "service_description": "xray",
-        "service_date": "1975-11-27",
-        "service_performed_by": "Dr. Loren Pagac",
-        "service_amount_paid": 831.7637514504604,
-        "service_amount_currency": "GBP",
-        "service_notes": "Digitized methodical orchestration"
-    },
-    {
-        "client_first_name": "Lavonne",
-        "client_last_name": "Botsford",
-        "service_description": "flu shot",
-        "service_date": "2004-11-21",
-        "service_performed_by": "Mustafa Welch",
-        "service_amount_paid": 784.4424716369249,
+        "service_date": "1988-11-29",
+        "service_performed_by": "Ebony Harris",
+        "service_amount_paid": 742.084075768711,
         "service_amount_currency": "CAD",
-        "service_notes": "Profit-focused well-modulated adapter"
+        "service_notes": "Fundamental optimizing protocol"
     },
     {
-        "client_first_name": "Lavonne",
-        "client_last_name": "Botsford",
-        "service_description": "flu shot",
-        "service_date": "2004-11-21",
-        "service_performed_by": "Mustafa Welch",
-        "service_amount_paid": 784.4424716369249,
+        "client_first_name": "Daniella",
+        "client_last_name": "Hane",
+        "service_description": "lab test",
+        "service_date": "1991-12-22",
+        "service_performed_by": "Diamond Sanford",
+        "service_amount_paid": 264.1903208452277,
         "service_amount_currency": "CAD",
-        "service_notes": "Profit-focused well-modulated adapter"
+        "service_notes": "Ameliorated object-oriented middleware"
     },
     {
-        "client_first_name": "Lavonne",
-        "client_last_name": "Botsford",
-        "service_description": "flu shot",
-        "service_date": "2004-11-21",
-        "service_performed_by": "Mustafa Welch",
-        "service_amount_paid": 784.4424716369249,
+        "client_first_name": "Sedrick",
+        "client_last_name": "Thompson",
+        "service_description": "ultrasound",
+        "service_date": "1988-12-28",
+        "service_performed_by": "Buster Jaskolski",
+        "service_amount_paid": 675.0750306658447,
         "service_amount_currency": "CAD",
-        "service_notes": "Profit-focused well-modulated adapter"
+        "service_notes": "Ergonomic directional benchmark"
     },
     {
-        "client_first_name": "Lavonne",
-        "client_last_name": "Botsford",
-        "service_description": "flu shot",
-        "service_date": "2004-11-21",
-        "service_performed_by": "Mustafa Welch",
-        "service_amount_paid": 784.4424716369249,
-        "service_amount_currency": "CAD",
-        "service_notes": "Profit-focused well-modulated adapter"
-    },
-    {
-        "client_first_name": "Lavonne",
-        "client_last_name": "Botsford",
-        "service_description": "flu shot",
-        "service_date": "2004-11-21",
-        "service_performed_by": "Mustafa Welch",
-        "service_amount_paid": 784.4424716369249,
-        "service_amount_currency": "CAD",
-        "service_notes": "Profit-focused well-modulated adapter"
-    },
-    {
-        "client_first_name": "Lavonne",
-        "client_last_name": "Botsford",
-        "service_description": "flu shot",
-        "service_date": "2004-11-21",
-        "service_performed_by": "Mustafa Welch",
-        "service_amount_paid": 784.4424716369249,
-        "service_amount_currency": "CAD",
-        "service_notes": "Profit-focused well-modulated adapter"
-    },
-    {
-        "client_first_name": "Lavonne",
-        "client_last_name": "Botsford",
-        "service_description": "flu shot",
-        "service_date": "2004-11-21",
-        "service_performed_by": "Mustafa Welch",
-        "service_amount_paid": 784.4424716369249,
-        "service_amount_currency": "CAD",
-        "service_notes": "Profit-focused well-modulated adapter"
-    },
-    {
-        "client_first_name": "Lavonne",
-        "client_last_name": "Botsford",
-        "service_description": "flu shot",
-        "service_date": "2004-11-21",
-        "service_performed_by": "Mustafa Welch",
-        "service_amount_paid": 784.4424716369249,
-        "service_amount_currency": "CAD",
-        "service_notes": "Profit-focused well-modulated adapter"
-    },
-    {
-        "client_first_name": "Aylin",
+        "client_first_name": "Mya",
         "client_last_name": "Maggio",
-        "service_description": "lab test",
-        "service_date": "1981-08-17",
-        "service_performed_by": "Marcellus Goyette",
-        "service_amount_paid": 908.4026944434736,
-        "service_amount_currency": "USD",
-        "service_notes": "Secured nextgeneration hardware"
-    },
-    {
-        "client_first_name": "Aylin",
-        "client_last_name": "Maggio",
-        "service_description": "lab test",
-        "service_date": "1981-08-17",
-        "service_performed_by": "Marcellus Goyette",
-        "service_amount_paid": 908.4026944434736,
-        "service_amount_currency": "USD",
-        "service_notes": "Secured nextgeneration hardware"
-    },
-    {
-        "client_first_name": "Aylin",
-        "client_last_name": "Maggio",
-        "service_description": "lab test",
-        "service_date": "1981-08-17",
-        "service_performed_by": "Marcellus Goyette",
-        "service_amount_paid": 908.4026944434736,
-        "service_amount_currency": "USD",
-        "service_notes": "Secured nextgeneration hardware"
-    },
-    {
-        "client_first_name": "Aylin",
-        "client_last_name": "Maggio",
-        "service_description": "lab test",
-        "service_date": "1981-08-17",
-        "service_performed_by": "Marcellus Goyette",
-        "service_amount_paid": 908.4026944434736,
-        "service_amount_currency": "USD",
-        "service_notes": "Secured nextgeneration hardware"
-    },
-    {
-        "client_first_name": "Aylin",
-        "client_last_name": "Maggio",
-        "service_description": "lab test",
-        "service_date": "1981-08-17",
-        "service_performed_by": "Marcellus Goyette",
-        "service_amount_paid": 908.4026944434736,
-        "service_amount_currency": "USD",
-        "service_notes": "Secured nextgeneration hardware"
-    },
-    {
-        "client_first_name": "Aylin",
-        "client_last_name": "Maggio",
-        "service_description": "lab test",
-        "service_date": "1981-08-17",
-        "service_performed_by": "Marcellus Goyette",
-        "service_amount_paid": 908.4026944434736,
-        "service_amount_currency": "USD",
-        "service_notes": "Secured nextgeneration hardware"
-    },
-    {
-        "client_first_name": "Aylin",
-        "client_last_name": "Maggio",
-        "service_description": "lab test",
-        "service_date": "1981-08-17",
-        "service_performed_by": "Marcellus Goyette",
-        "service_amount_paid": 908.4026944434736,
-        "service_amount_currency": "USD",
-        "service_notes": "Secured nextgeneration hardware"
-    },
-    {
-        "client_first_name": "Aylin",
-        "client_last_name": "Maggio",
-        "service_description": "lab test",
-        "service_date": "1981-08-17",
-        "service_performed_by": "Marcellus Goyette",
-        "service_amount_paid": 908.4026944434736,
-        "service_amount_currency": "USD",
-        "service_notes": "Secured nextgeneration hardware"
-    },
-    {
-        "client_first_name": "Zoey",
-        "client_last_name": "Bergstrom",
-        "service_description": "xray",
-        "service_date": "1998-01-05",
-        "service_performed_by": "Dr. Beulah Orn",
-        "service_amount_paid": 334.67797044548206,
+        "service_description": "ecg",
+        "service_date": "2004-10-29",
+        "service_performed_by": "Dr. Mayra Murazik",
+        "service_amount_paid": 411.188314992236,
         "service_amount_currency": "GBP",
-        "service_notes": "Self-enabling object-oriented architecture"
+        "service_notes": "Optional high-level GraphicalUserInterface"
     },
     {
-        "client_first_name": "Zoey",
-        "client_last_name": "Bergstrom",
+        "client_first_name": "Elyse",
+        "client_last_name": "Bednar",
+        "service_description": "lab test",
+        "service_date": "1992-06-06",
+        "service_performed_by": "Jedediah Bins",
+        "service_amount_paid": 969.0688613825478,
+        "service_amount_currency": "CAD",
+        "service_notes": "Managed hybrid flexibility"
+    },
+    {
+        "client_first_name": "Berta",
+        "client_last_name": "Haag",
+        "service_description": "lab test",
+        "service_date": "2006-12-25",
+        "service_performed_by": "Vivianne Swaniawski",
+        "service_amount_paid": 105.5401006101165,
+        "service_amount_currency": "CAD",
+        "service_notes": "Right-sized needs-based contingency"
+    },
+    {
+        "client_first_name": "Anastasia",
+        "client_last_name": "Hyatt",
         "service_description": "xray",
-        "service_date": "1998-01-05",
-        "service_performed_by": "Dr. Beulah Orn",
-        "service_amount_paid": 334.67797044548206,
+        "service_date": "2007-02-10",
+        "service_performed_by": "Kara Runolfsdottir",
+        "service_amount_paid": 697.3101495190058,
+        "service_amount_currency": "CAD",
+        "service_notes": "Open-architected transitional internetsolution"
+    },
+    {
+        "client_first_name": "Heaven",
+        "client_last_name": "Becker",
+        "service_description": "root canal",
+        "service_date": "1999-06-14",
+        "service_performed_by": "Dr. Lenna Paucek",
+        "service_amount_paid": 832.3237402217928,
         "service_amount_currency": "GBP",
-        "service_notes": "Self-enabling object-oriented architecture"
+        "service_notes": "Customizable zeroadministration conglomeration"
     },
     {
-        "client_first_name": "Zoey",
-        "client_last_name": "Bergstrom",
-        "service_description": "xray",
-        "service_date": "1998-01-05",
-        "service_performed_by": "Dr. Beulah Orn",
-        "service_amount_paid": 334.67797044548206,
+        "client_first_name": "Dale",
+        "client_last_name": "Skiles",
+        "service_description": "ecg",
+        "service_date": "2000-03-25",
+        "service_performed_by": "Dr. Julius Wilkinson",
+        "service_amount_paid": 102.35376061452553,
         "service_amount_currency": "GBP",
-        "service_notes": "Self-enabling object-oriented architecture"
-    },
-    {
-        "client_first_name": "Zoey",
-        "client_last_name": "Bergstrom",
-        "service_description": "xray",
-        "service_date": "1998-01-05",
-        "service_performed_by": "Dr. Beulah Orn",
-        "service_amount_paid": 334.67797044548206,
-        "service_amount_currency": "GBP",
-        "service_notes": "Self-enabling object-oriented architecture"
-    },
-    {
-        "client_first_name": "Zoey",
-        "client_last_name": "Bergstrom",
-        "service_description": "xray",
-        "service_date": "1998-01-05",
-        "service_performed_by": "Dr. Beulah Orn",
-        "service_amount_paid": 334.67797044548206,
-        "service_amount_currency": "GBP",
-        "service_notes": "Self-enabling object-oriented architecture"
-    },
-    {
-        "client_first_name": "Zoey",
-        "client_last_name": "Bergstrom",
-        "service_description": "xray",
-        "service_date": "1998-01-05",
-        "service_performed_by": "Dr. Beulah Orn",
-        "service_amount_paid": 334.67797044548206,
-        "service_amount_currency": "GBP",
-        "service_notes": "Self-enabling object-oriented architecture"
-    },
-    {
-        "client_first_name": "Zoey",
-        "client_last_name": "Bergstrom",
-        "service_description": "xray",
-        "service_date": "1998-01-05",
-        "service_performed_by": "Dr. Beulah Orn",
-        "service_amount_paid": 334.67797044548206,
-        "service_amount_currency": "GBP",
-        "service_notes": "Self-enabling object-oriented architecture"
-    },
-    {
-        "client_first_name": "Zoey",
-        "client_last_name": "Bergstrom",
-        "service_description": "xray",
-        "service_date": "1998-01-05",
-        "service_performed_by": "Dr. Beulah Orn",
-        "service_amount_paid": 334.67797044548206,
-        "service_amount_currency": "GBP",
-        "service_notes": "Self-enabling object-oriented architecture"
-    },
-    {
-        "client_first_name": "Krystel",
-        "client_last_name": "Steuber",
-        "service_description": "xray",
-        "service_date": "2009-01-15",
-        "service_performed_by": "Dr. Jeromy Bradtke",
-        "service_amount_paid": 674.6292255565058,
-        "service_amount_currency": "CAD",
-        "service_notes": "Function-based 24/7 structure"
-    },
-    {
-        "client_first_name": "Krystel",
-        "client_last_name": "Steuber",
-        "service_description": "xray",
-        "service_date": "2009-01-15",
-        "service_performed_by": "Dr. Jeromy Bradtke",
-        "service_amount_paid": 674.6292255565058,
-        "service_amount_currency": "CAD",
-        "service_notes": "Function-based 24/7 structure"
-    },
-    {
-        "client_first_name": "Krystel",
-        "client_last_name": "Steuber",
-        "service_description": "xray",
-        "service_date": "2009-01-15",
-        "service_performed_by": "Dr. Jeromy Bradtke",
-        "service_amount_paid": 674.6292255565058,
-        "service_amount_currency": "CAD",
-        "service_notes": "Function-based 24/7 structure"
-    },
-    {
-        "client_first_name": "Krystel",
-        "client_last_name": "Steuber",
-        "service_description": "xray",
-        "service_date": "2009-01-15",
-        "service_performed_by": "Dr. Jeromy Bradtke",
-        "service_amount_paid": 674.6292255565058,
-        "service_amount_currency": "CAD",
-        "service_notes": "Function-based 24/7 structure"
-    },
-    {
-        "client_first_name": "Krystel",
-        "client_last_name": "Steuber",
-        "service_description": "xray",
-        "service_date": "2009-01-15",
-        "service_performed_by": "Dr. Jeromy Bradtke",
-        "service_amount_paid": 674.6292255565058,
-        "service_amount_currency": "CAD",
-        "service_notes": "Function-based 24/7 structure"
-    },
-    {
-        "client_first_name": "Krystel",
-        "client_last_name": "Steuber",
-        "service_description": "xray",
-        "service_date": "2009-01-15",
-        "service_performed_by": "Dr. Jeromy Bradtke",
-        "service_amount_paid": 674.6292255565058,
-        "service_amount_currency": "CAD",
-        "service_notes": "Function-based 24/7 structure"
-    },
-    {
-        "client_first_name": "Krystel",
-        "client_last_name": "Steuber",
-        "service_description": "xray",
-        "service_date": "2009-01-15",
-        "service_performed_by": "Dr. Jeromy Bradtke",
-        "service_amount_paid": 674.6292255565058,
-        "service_amount_currency": "CAD",
-        "service_notes": "Function-based 24/7 structure"
-    },
-    {
-        "client_first_name": "Krystel",
-        "client_last_name": "Steuber",
-        "service_description": "xray",
-        "service_date": "2009-01-15",
-        "service_performed_by": "Dr. Jeromy Bradtke",
-        "service_amount_paid": 674.6292255565058,
-        "service_amount_currency": "CAD",
-        "service_notes": "Function-based 24/7 structure"
-    },
-    {
-        "client_first_name": "Magnus",
-        "client_last_name": "Wisozk",
-        "service_description": "ultrasound",
-        "service_date": "1995-03-10",
-        "service_performed_by": "Dr. Hortense Cummings",
-        "service_amount_paid": 144.39245683629997,
-        "service_amount_currency": "CAD",
-        "service_notes": "Multi-tiered background pricingstructure"
-    },
-    {
-        "client_first_name": "Magnus",
-        "client_last_name": "Wisozk",
-        "service_description": "ultrasound",
-        "service_date": "1995-03-10",
-        "service_performed_by": "Dr. Hortense Cummings",
-        "service_amount_paid": 144.39245683629997,
-        "service_amount_currency": "CAD",
-        "service_notes": "Multi-tiered background pricingstructure"
-    },
-    {
-        "client_first_name": "Magnus",
-        "client_last_name": "Wisozk",
-        "service_description": "ultrasound",
-        "service_date": "1995-03-10",
-        "service_performed_by": "Dr. Hortense Cummings",
-        "service_amount_paid": 144.39245683629997,
-        "service_amount_currency": "CAD",
-        "service_notes": "Multi-tiered background pricingstructure"
-    },
-    {
-        "client_first_name": "Magnus",
-        "client_last_name": "Wisozk",
-        "service_description": "ultrasound",
-        "service_date": "1995-03-10",
-        "service_performed_by": "Dr. Hortense Cummings",
-        "service_amount_paid": 144.39245683629997,
-        "service_amount_currency": "CAD",
-        "service_notes": "Multi-tiered background pricingstructure"
-    },
-    {
-        "client_first_name": "Magnus",
-        "client_last_name": "Wisozk",
-        "service_description": "ultrasound",
-        "service_date": "1995-03-10",
-        "service_performed_by": "Dr. Hortense Cummings",
-        "service_amount_paid": 144.39245683629997,
-        "service_amount_currency": "CAD",
-        "service_notes": "Multi-tiered background pricingstructure"
-    },
-    {
-        "client_first_name": "Magnus",
-        "client_last_name": "Wisozk",
-        "service_description": "ultrasound",
-        "service_date": "1995-03-10",
-        "service_performed_by": "Dr. Hortense Cummings",
-        "service_amount_paid": 144.39245683629997,
-        "service_amount_currency": "CAD",
-        "service_notes": "Multi-tiered background pricingstructure"
-    },
-    {
-        "client_first_name": "Magnus",
-        "client_last_name": "Wisozk",
-        "service_description": "ultrasound",
-        "service_date": "1995-03-10",
-        "service_performed_by": "Dr. Hortense Cummings",
-        "service_amount_paid": 144.39245683629997,
-        "service_amount_currency": "CAD",
-        "service_notes": "Multi-tiered background pricingstructure"
-    },
-    {
-        "client_first_name": "Magnus",
-        "client_last_name": "Wisozk",
-        "service_description": "ultrasound",
-        "service_date": "1995-03-10",
-        "service_performed_by": "Dr. Hortense Cummings",
-        "service_amount_paid": 144.39245683629997,
-        "service_amount_currency": "CAD",
-        "service_notes": "Multi-tiered background pricingstructure"
-    },
-    {
-        "client_first_name": "Sienna",
-        "client_last_name": "McDermott",
-        "service_description": "ultrasound",
-        "service_date": "1992-11-10",
-        "service_performed_by": "Leanne Barrows",
-        "service_amount_paid": 13.374980528838933,
-        "service_amount_currency": "CAD",
-        "service_notes": "Reduced heuristic encryption"
-    },
-    {
-        "client_first_name": "Sienna",
-        "client_last_name": "McDermott",
-        "service_description": "ultrasound",
-        "service_date": "1992-11-10",
-        "service_performed_by": "Leanne Barrows",
-        "service_amount_paid": 13.374980528838933,
-        "service_amount_currency": "CAD",
-        "service_notes": "Reduced heuristic encryption"
-    },
-    {
-        "client_first_name": "Sienna",
-        "client_last_name": "McDermott",
-        "service_description": "ultrasound",
-        "service_date": "1992-11-10",
-        "service_performed_by": "Leanne Barrows",
-        "service_amount_paid": 13.374980528838933,
-        "service_amount_currency": "CAD",
-        "service_notes": "Reduced heuristic encryption"
-    },
-    {
-        "client_first_name": "Sienna",
-        "client_last_name": "McDermott",
-        "service_description": "ultrasound",
-        "service_date": "1992-11-10",
-        "service_performed_by": "Leanne Barrows",
-        "service_amount_paid": 13.374980528838933,
-        "service_amount_currency": "CAD",
-        "service_notes": "Reduced heuristic encryption"
-    },
-    {
-        "client_first_name": "Sienna",
-        "client_last_name": "McDermott",
-        "service_description": "ultrasound",
-        "service_date": "1992-11-10",
-        "service_performed_by": "Leanne Barrows",
-        "service_amount_paid": 13.374980528838933,
-        "service_amount_currency": "CAD",
-        "service_notes": "Reduced heuristic encryption"
-    },
-    {
-        "client_first_name": "Sienna",
-        "client_last_name": "McDermott",
-        "service_description": "ultrasound",
-        "service_date": "1992-11-10",
-        "service_performed_by": "Leanne Barrows",
-        "service_amount_paid": 13.374980528838933,
-        "service_amount_currency": "CAD",
-        "service_notes": "Reduced heuristic encryption"
-    },
-    {
-        "client_first_name": "Sienna",
-        "client_last_name": "McDermott",
-        "service_description": "ultrasound",
-        "service_date": "1992-11-10",
-        "service_performed_by": "Leanne Barrows",
-        "service_amount_paid": 13.374980528838933,
-        "service_amount_currency": "CAD",
-        "service_notes": "Reduced heuristic encryption"
-    },
-    {
-        "client_first_name": "Sienna",
-        "client_last_name": "McDermott",
-        "service_description": "ultrasound",
-        "service_date": "1992-11-10",
-        "service_performed_by": "Leanne Barrows",
-        "service_amount_paid": 13.374980528838933,
-        "service_amount_currency": "CAD",
-        "service_notes": "Reduced heuristic encryption"
-    },
-    {
-        "client_first_name": "Mathilde",
-        "client_last_name": "Romaguera",
-        "service_description": "xray",
-        "service_date": "1973-02-04",
-        "service_performed_by": "Dr. Ignatius Pacocha",
-        "service_amount_paid": 544.6731272616889,
-        "service_amount_currency": "CAD",
-        "service_notes": "Innovative transitional knowledgeuser"
-    },
-    {
-        "client_first_name": "Mathilde",
-        "client_last_name": "Romaguera",
-        "service_description": "xray",
-        "service_date": "1973-02-04",
-        "service_performed_by": "Dr. Ignatius Pacocha",
-        "service_amount_paid": 544.6731272616889,
-        "service_amount_currency": "CAD",
-        "service_notes": "Innovative transitional knowledgeuser"
-    },
-    {
-        "client_first_name": "Mathilde",
-        "client_last_name": "Romaguera",
-        "service_description": "xray",
-        "service_date": "1973-02-04",
-        "service_performed_by": "Dr. Ignatius Pacocha",
-        "service_amount_paid": 544.6731272616889,
-        "service_amount_currency": "CAD",
-        "service_notes": "Innovative transitional knowledgeuser"
-    },
-    {
-        "client_first_name": "Mathilde",
-        "client_last_name": "Romaguera",
-        "service_description": "xray",
-        "service_date": "1973-02-04",
-        "service_performed_by": "Dr. Ignatius Pacocha",
-        "service_amount_paid": 544.6731272616889,
-        "service_amount_currency": "CAD",
-        "service_notes": "Innovative transitional knowledgeuser"
-    },
-    {
-        "client_first_name": "Mathilde",
-        "client_last_name": "Romaguera",
-        "service_description": "xray",
-        "service_date": "1973-02-04",
-        "service_performed_by": "Dr. Ignatius Pacocha",
-        "service_amount_paid": 544.6731272616889,
-        "service_amount_currency": "CAD",
-        "service_notes": "Innovative transitional knowledgeuser"
-    },
-    {
-        "client_first_name": "Mathilde",
-        "client_last_name": "Romaguera",
-        "service_description": "xray",
-        "service_date": "1973-02-04",
-        "service_performed_by": "Dr. Ignatius Pacocha",
-        "service_amount_paid": 544.6731272616889,
-        "service_amount_currency": "CAD",
-        "service_notes": "Innovative transitional knowledgeuser"
-    },
-    {
-        "client_first_name": "Mathilde",
-        "client_last_name": "Romaguera",
-        "service_description": "xray",
-        "service_date": "1973-02-04",
-        "service_performed_by": "Dr. Ignatius Pacocha",
-        "service_amount_paid": 544.6731272616889,
-        "service_amount_currency": "CAD",
-        "service_notes": "Innovative transitional knowledgeuser"
-    },
-    {
-        "client_first_name": "Mathilde",
-        "client_last_name": "Romaguera",
-        "service_description": "xray",
-        "service_date": "1973-02-04",
-        "service_performed_by": "Dr. Ignatius Pacocha",
-        "service_amount_paid": 544.6731272616889,
-        "service_amount_currency": "CAD",
-        "service_notes": "Innovative transitional knowledgeuser"
+        "service_notes": "Public-key optimal collaboration"
     }
 ]
