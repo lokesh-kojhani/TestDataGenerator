@@ -27,7 +27,9 @@ Node.js should be installed on the machine.
         "service_date": "date(format = 'YYYY-MM-DD')", // date(format = 'YYYY-MM-DD') is derived from Casual library
         "service_performed_by": "performed_by", // performed_by is a custom generator
         "service_amount_paid": "double(from = 1, to = 1000)", // double(from = 1, to = 1000) is derived from Casual library
-        "service_amount_currency": "currency" //  custom generator
+        "service_amount_currency": "currency", //  custom generator
+        "service_notes":"" //Edge case scenrario.
+
     }
 
 ```
@@ -43,6 +45,10 @@ Node.js should be installed on the machine.
 ## Code Execution
 
 - Clone the code.
-- Open the terminal and go to the source code folder
-- Run `npm install`
-- Run `node main.js`
+- First delete `TestData.json` (if exists).
+- Open the terminal and go to the source code folder.
+- Run `npm install`.
+- Run `node main.js`.
+
+## Results
+It will generate a file named `TestData.json`.
